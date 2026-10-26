@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Carmenta Geospatial Technologies AB is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.carmenta.se
+Carmenta provides software development kits and platforms that enable creation of powerful geospatial applications for real‑time visualization, analysis and decision‑making on dynamic spatial data. Their solutions serve mission‑critical environments across industries, offering flexible SDKs, APIs and tools to integrate geospatial intelligence into custom workflows.
+
+**Areas:** Company · Geospatial · SDK · APIs · Real-time
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://carmenta.com)
+- [Documentation](https://docs.carmenta.com)
+- [Support](https://carmenta.com/support)
+- [Changelog](https://carmenta.com/products/carmenta-server/releases)
+- [Blog](https://carmenta.com/developer-blog)
+- [Terms of service](https://carmenta.com/terms-conditions-carmenta-uas-services)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/carmenta-geospatial-technologies-ab/](https://apis.io/providers/carmenta-geospatial-technologies-ab/).
